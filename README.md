@@ -1,6 +1,6 @@
 # Olá! Eu sou a Mariah 👋
 
-🎯 Analista de Dados em transição para Engenharia de Dados  
+🎯 Analista de Dados dando os primeiros passos para Engenharia de Dados  
 📊 Vinda da Arquitetura e Projetos Operacionais  
 💡 Movida por processos, pessoas e o impacto transformador dos dados  
 🚀 Explorando Python, SQL, BI e fundamentos de Engenharia
