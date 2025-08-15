@@ -18,4 +18,4 @@ Tenho experiência em análise de processos operacionais e venho migrando da Arq
 o mundo dos Dados com foco em técnica, clareza e impacto.
 
 Vamos conectar?  
-💼 [LinkedIn](linkedin.com/in/mariahlisboa) | 📬 lisboamariah@gmail.com | 📄 [Currículo](https://docs.google.com/document/d/1JCiJhkkG7DnOZkVv557r3d88ea5hH7PiWJiJOUwZ0ds/edit?usp=sharing)
+💼 [LinkedIn](https://www.linkedin.com/in/mariahlisboa/) | 📬 lisboamariah@gmail.com | 📄 [Currículo](https://docs.google.com/document/d/1JCiJhkkG7DnOZkVv557r3d88ea5hH7PiWJiJOUwZ0ds/edit?usp=sharing)
