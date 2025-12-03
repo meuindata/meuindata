@@ -11,6 +11,7 @@
 - Análise de Vendas e Churn de Clientes | Laboratoria Brasil
 - Validação de Hipóteses no Contexto Musical | Laboratoria Brasil
 - Análise de Crédito Bancário com Classificação de Risco | Laboratoria Brasil
+- Análise Comportamental de Clientes em um e-commerce com Score de Propensão à Compra | TÉLOS.IA + CESAR + THOUGHTWORKS
 
 ### ✨ Sobre mim:
 Sou apaixonada por entender sistemas, otimizar processos e contar boas histórias com dados.
