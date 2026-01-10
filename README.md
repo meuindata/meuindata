@@ -2,7 +2,8 @@
 
 ### 📖 Background
 
-🎯 Formada em Arquitetura e Urbanismo, estou migrando para o mundo dos Dados; <br>
+🎯 Estudante de Banco de Dados e IA - CESAR School (2026 - 2028); <br>
+👩🏻‍🎓 Formada em Arquitetura e Urbanismo (2016 - 2020); <br>
 💡 Movida por processos, pessoas e o impacto transformador dos dados; <br>
 📊 Analista de Dados dando os primeiros passos para Engenharia de Dados;    
 🚀 Explorando Python, SQL, BI e fundamentos de Engenharia;
